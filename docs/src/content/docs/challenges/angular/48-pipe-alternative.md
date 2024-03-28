@@ -14,7 +14,7 @@ sidebar:
 
 ## Information
 
-This is the fourth and last of four `@Pipe()` challenges, the goal of this series is to master pipes in Angular. But this part isn’t really about pipes, but it’ll help to better understand the concept of pipes.
+This is the fourth and last of four `@Pipe()` challenges, the goal of this series is to master pipes in Angular. But this part isn’t really about pipes, it’ll help you to better understand the concept of pipes though.
 
 For those who crave for maximum performance. And less boilerplate.
 
